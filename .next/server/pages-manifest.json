@@ -1,10 +1,13 @@
 {
   "/_app": "pages/_app.js",
-  "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
-  "/listagem/ListagemAutor": "pages/listagem/ListagemAutor.js",
-  "/cadastro/CadastroAutor": "pages/cadastro/CadastroAutor.js",
-  "/listagem/ListagemVideo": "pages/listagem/ListagemVideo.js",
-  "/cadastro/CadastroVideo": "pages/cadastro/CadastroVideo.js",
-  "/": "pages/index.js"
+  "/_error": "pages/_error.js",
+  "/api/hello": "pages/api/hello.js",
+  "/cadastro/CadastroAutor": "pages/cadastro/CadastroAutor.html",
+  "/cadastro/CadastroVideo": "pages/cadastro/CadastroVideo.html",
+  "/": "pages/index.html",
+  "/listagem/ListagemVideo": "pages/listagem/ListagemVideo.html",
+  "/listagem/ListagemAutor": "pages/listagem/ListagemAutor.html",
+  "/videos/[video]": "pages/videos/[video].html",
+  "/404": "pages/404.html"
 }

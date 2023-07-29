@@ -24,7 +24,7 @@ export default function FormAutor() {
     }
 
     return(
-        <div className="bg-rose-600 ml-72 rounded m-6 p-6">
+        <div className="bg-rose-600 ml-72 rounded p-6">
             <h2 className="text-xl p-6 pl-0 pt-0">Cadastro de Autores</h2>
             <form className="grid grid-cols-1 gap-2" onSubmit={salvarAutor}>
                 <label htmlFor="nome">Nome Completo</label>
