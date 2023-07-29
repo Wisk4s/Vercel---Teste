@@ -1,0 +1,10 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/listagem/ListagemAutor": "pages/listagem/ListagemAutor.js",
+  "/cadastro/CadastroAutor": "pages/cadastro/CadastroAutor.js",
+  "/listagem/ListagemVideo": "pages/listagem/ListagemVideo.js",
+  "/cadastro/CadastroVideo": "pages/cadastro/CadastroVideo.js",
+  "/": "pages/index.js"
+}
